@@ -1,0 +1,4 @@
+[2025-05-24 21:01:06.269762] Ran check-folder.py
+OUTPUT: logs already exists!
+[2025-05-24 21:01:06.413274] Ran check-file.py
+OUTPUT: app.log already exists in logs
