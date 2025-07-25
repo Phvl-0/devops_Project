@@ -1,1 +1,2 @@
 This is a new feature developed on team_tests.
+This file introduces a new feature.
